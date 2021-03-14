@@ -1,0 +1,78 @@
+body{
+
+    background-image: linear-gradient(90deg,rgb(77, 144, 231) 20%,rgb(241, 87, 87) 80% );
+    
+}
+
+#head{
+    margin: 0px auto;
+    margin-top: 35px;
+    width: 1100px;
+    height: 630px;
+    background-color:rgba(225,225, 225, 0.5);
+    border-radius: 10px;
+    padding: 50px;
+}
+#ironman{
+
+    width: 600px;
+    height: 350px;
+    margin-left: 400px;
+    margin-top: -350px;
+    margin-bottom: 30px;
+    
+}
+#content{
+
+    width: 350px;
+}
+.icon{
+
+  
+    width: 50px;
+    height: 50px;
+    margin-top: 40px;
+    
+}
+
+
+#first{
+    background-color:rgba(225,225, 225, 0.5);
+    width: 240px;
+    margin-left: 3px;
+    border-radius: 10px;
+    font-size: 12px;
+    
+}
+#second{
+    background-color:rgba(225,225, 225, 0.5);
+    width: 240px;
+    margin-left: 9px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#third{
+      background-color:rgba(225,225, 225, 0.5);
+   
+     margin-left: 9px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#forth{
+     background-color:rgba(225,225, 225, 0.5);
+    
+     margin-left: 9px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.iron1{
+    width: 60px;
+}
+
+.human{
+
+    width: 40px;
+    margin: 0px auto;
+}
+
